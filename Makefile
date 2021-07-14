@@ -12,6 +12,6 @@ python:
 	poetry run python3
 lint:
 	poetry run flake8 brain_games
-itstall:
+install:
 	poetry install
 
