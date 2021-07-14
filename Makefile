@@ -14,9 +14,8 @@ lint:
 	poetry run flake8 brain_games
 install:
 	poetry install
-
-selfcheck:
+check:
 	poetry check
 
-check: selfcheck test lint	
+
 
