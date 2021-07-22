@@ -4,3 +4,7 @@
 ![run-tests](https://github.com/afiskon/go-rest-service-example/workflows/run-tests/badge.svg)
 ![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 https://asciinema.org/a/JKT2qBH68fm838pWyxvs4YSSG
+
+### Presentation of the gameplay in the video
+
+<a href="https://asciinema.org/a/JKT2qBH68fm838pWyxvs4YSSG" /></a>
