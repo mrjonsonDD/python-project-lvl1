@@ -5,7 +5,7 @@ publish:
 package-install:
 	python3 -m pip install --user dist/*.whl
 brain-games:
-	poetry run brain-game
+	poetry run brain-games
 package-reinstall:
 	python3 -m pip install --user --force-reinstall dist/*.whl
 python:
@@ -16,6 +16,6 @@ install:
 	poetry install
 check:
 	poetry check
-
-
-
+brain-even:
+	poetry run brain-even	
+	
