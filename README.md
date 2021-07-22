@@ -7,4 +7,4 @@
 
 ### Presentation of the gameplay in the video
 
-<a href="https://asciinema.org/a/JKT2qBH68fm838pWyxvs4YSSG" /></a>
+https://asciinema.org/a/JKT2qBH68fm838pWyxvs4YSSG
