@@ -17,5 +17,7 @@ install:
 check:
 	poetry check
 brain-even:
-	poetry run brain-even	
+	poetry run brain-even
+brain-calc:
+	poetry run brain-calc	
 	
