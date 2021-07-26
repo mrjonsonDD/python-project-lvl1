@@ -11,15 +11,16 @@ def even_number():
             corr_ans = "'yes'"
         else:
             corr_ans = "'no'"
-        print('Question:' + str(num))
-        answer = input()
-        print('Your answer: ' + answer)
+            print('Question:' + str(num))
+            answer = input()
+            print('Your answer: ' + answer)
         if answer == 'yes' and num % 2 == 0 or answer == 'no' and num % 2 != 0:
             print('Correct!')
             count_answer += 1
         else:
             return (f"Sorry,'{answer}' is wrong answer ;(. "
-            f"Correct answer was '{corr_ans}'.\nLet's try again, {user_name}!")
+                    f"Correct answer was '{corr_ans}'."
+                    f"\n Let's try again, {user_name}!")
 
     else:
         return 'Congratulations, ' + user_name + '!'
