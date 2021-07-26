@@ -1,5 +1,11 @@
-# created by virtualenv automatically
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Created by virtualenv automatically
 .venv
-.dist
-.pycache
-venv/
+.venv/
+
+# Distribution / packaging
+dist/
+
+
