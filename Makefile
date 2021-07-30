@@ -23,5 +23,7 @@ brain-calc:
 brain-gcd:
 	poetry run brain-gcd
 brain-progression:
-	poetry run brain-progression		
+	poetry run brain-progression
+brain-prime:
+	poetry run brain-prime		
 	
