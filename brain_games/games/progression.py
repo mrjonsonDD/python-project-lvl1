@@ -15,8 +15,8 @@ def arithmetic_progression():
             if i != mysterious_num:
                 mysterious_prog += ' ' + str(i)
             else:
-                correct = mysterious_prog 
-                mysterious_prog += ' ..' 
+                correct = mysterious_prog
+                mysterious_prog += ' ..'
         print('Question: ' + mysterious_prog)
         answer = input()
         print('Your answer: ' + answer)
@@ -32,6 +32,3 @@ def arithmetic_progression():
 
     else:
         return 'Congratulations, ' + user_name + '!'
-        break
-
-
