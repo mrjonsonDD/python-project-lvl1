@@ -10,6 +10,32 @@
 
 
 
+# Game Brain-even
+
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
+</head>
+<body>
+  <asciinema-player src="/428616.cast" cols="120" rows="30"></asciinema-player>
+  ...
+  <script src="/asciinema-player.js"></script>
+</body>
+</html>
+
+#Game Brain-calc
+
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
+</head>
+<body>
+  <asciinema-player src="/428613.cast" cols="120" rows="30"></asciinema-player>
+  ...
+  <script src="/asciinema-player.js"></script>
+</body>
+</html>
+
 # Game Brain-gcd
 
 <html>
