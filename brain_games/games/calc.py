@@ -19,7 +19,7 @@ def calculate_answer():
         else:
             print('Question: ' + str(num1) + ' - ' + str(num2))
             right_ans = num1 - num2
-            answer = input()
+        answer = input()
         print('Your answer: ' + answer)
         if answer == str(right_ans):
             print('Correct!')
