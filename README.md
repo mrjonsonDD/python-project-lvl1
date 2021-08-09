@@ -38,16 +38,7 @@
 
 # Game Brain-gcd
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/428609.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+<a href="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6" target="_blank"><img src="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6.svg" /></a>
 
 # Game Brain-prime
 
