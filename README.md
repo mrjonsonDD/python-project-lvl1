@@ -14,7 +14,7 @@
 
 <a href="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA" target="_blank"><img src="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA.svg" /></a>
 
-#Game Brain-calc
+# Game Brain-calc
 
 <a href="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI" target="_blank"><img src="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI.svg" /></a>
 
