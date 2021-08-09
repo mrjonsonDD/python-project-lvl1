@@ -12,65 +12,20 @@
 
 # Game Brain-even
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/428616.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+<a href="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA" target="_blank"><img src="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA.svg" /></a>
 
-#Game Brain-calc
+# Game Brain-calc
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/428613.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+<a href="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI" target="_blank"><img src="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI.svg" /></a>
 
 # Game Brain-gcd
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/428609.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+<a href="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6" target="_blank"><img src="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6.svg" /></a>
 
 # Game Brain-prime
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/428608.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+<a href="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0" target="_blank"><img src="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0.svg" /></a>
 
 # Game Brain-progression
 
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
-</head>
-<body>
-  <asciinema-player src="/428605.cast" cols="120" rows="30"></asciinema-player>
-  ...
-  <script src="/asciinema-player.js"></script>
-</body>
-</html>
+<a href="https://asciinema.org/a/7LIYC70D8qXiKJI4urcYaA3q7" target="_blank"><img src="https://asciinema.org/a/7LIYC70D8qXiKJI4urcYaA3q7.svg" /></a>
