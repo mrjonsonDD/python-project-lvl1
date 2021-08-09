@@ -11,7 +11,7 @@ def even_number():
             corr_ans = "'yes'"
         else:
             corr_ans = "'no'"
-        print('Question:' + str(num))
+        print('Question: ' + str(num))
         answer = input()
         print('Your answer: ' + answer)
         if answer == 'yes' and num % 2 == 0 or answer == 'no' and num % 2 != 0:
