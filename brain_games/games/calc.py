@@ -1,33 +1,30 @@
-import random
-from brain_games.welcome import user_name
+from brain_games.games.even import MIN_RANDINT
+from random import randint
 
 
-def calculate_answer():
-    count_answer = 0
-    print('What is the result of the expression?')
-    while count_answer != 3:
-        num1 = random.randint(10, 20)
-        num2 = random.randint(1, 10)
-        num_operator = random.randint(1, 3)
+GAME_TASK = 'What is the result of the expression?'
+MIN_FIRST_RANDINT = 10
+MAX_FIRST_RANDINT = 20
+MIN_SECOND_RANDINT = 1
+MAX_SECOND_RANDINT = 10
 
-        if num_operator == 1:
-            print('Question: ' + str(num1) + ' + ' + str(num2))
-            right_ans = num1 + num2
-        elif num_operator == 2:
-            print('Question: ' + str(num1) + ' * ' + str(num2))
-            right_ans = num1 * num2
-        else:
-            print('Question: ' + str(num1) + ' - ' + str(num2))
-            right_ans = num1 - num2
-        answer = input()
-        print('Your answer: ' + answer)
-        if answer == str(right_ans):
-            print('Correct!')
-            count_answer += 1
-        else:
-            return (f"Sorry,'{answer}' is wrong answer ;(. "
-                    f"Correct answer was '{right_ans}'."
-                    f"\n Let's try again, {user_name}!")
-            break
+def get_operator(num1, num2):
+    num_operator = randint(1, 3)
+    if num_operator == 1:
+        operator = ' + '
+        right_ans = num1 + num2
+    elif num_operator == 2:
+        operator = ' * '
+        right_ans = num1 * num2
     else:
-        return 'Congratulations, ' + user_name + '!'
+        operator = ' - '
+        right_ans = num1 - num2
+    return right_ans, operator
+
+def question_and_answer():
+    num1 = randint(MIN_FIRST_RANDINT, MAX_FIRST_RANDINT)
+    num2 = randint(MIN_SECOND_RANDINT, MAX_SECOND_RANDINT)
+    correct_answer, operator = get_operator(num1, num2)
+    question = '{} {} {}'.format(num1, operator, num2)
+    return question, correct_answer
+
