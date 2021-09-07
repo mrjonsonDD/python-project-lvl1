@@ -12,9 +12,9 @@ def mysterious_proggression(start_num, end_num, step):
     mysterious_prog = ''
     for index in range(start_num, end_num, step):
         if index != mysterious_num:
-            mysterious_prog += ' ' + str(index)
+            mysterious_prog +=  str(index) + ' '
         else:
-            mysterious_prog += ' ..'
+            mysterious_prog += '.. '
     return mysterious_prog, mysterious_num
 
 
