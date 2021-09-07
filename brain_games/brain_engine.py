@@ -20,9 +20,11 @@ def run_engine(game):
 
         if answer == correct_answer:
             print('Correct!')
+            continue
         else:
             print((f"'{answer}' is wrong answer ;(."
                    f"Correct answer was '{correct_answer}'"
                    f".\nLet's try again, {user_name}!"))
+            break
     else:
-        return 'Congratulations, ' + user_name + '!'
+        print(f'Congratulations, {user_name}!')

@@ -21,4 +21,3 @@ def question_and_answer():
     question = randint(MIN_RANDINT, MAX_RANDINT)
     correct_answer = 'yes' if prime_number(question) else 'no'
     return question, correct_answer
-   
