@@ -55,6 +55,10 @@ Do you know what GCD is? If you think that it will be about the GongChanDangerou
 
 <img class="MMImage-Origin" src="https://i.ytimg.com/vi/lhuuPvor1VA/maxresdefault.jpg">
 
+Did you know that there are 6 signs that you don't like prime numbers: 1. Try not to use them. 4. You do not allow others to use it. 6. Try not to notice them.
+A prime number (prime) is a natural number that has exactly two different natural divisors-one and itself. Let's play Brain-prime and answer the question whether the number is prime or not. Do you have three attempts and if you answered correctly - you are the winner.
+
+
 
 ### Presentation of the gameplay in the video:
 
