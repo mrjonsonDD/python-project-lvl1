@@ -43,7 +43,7 @@ Do you like to count different mathematical examples in your mind? Let's play Br
 
 <img class="MMImage-Origin" src="http://jonathandodson.org/wp-content/uploads/2011/09/GCD-logo.jpg">
 
-Do you know what GCD is? If you think that it will be about the GongChanDangerous, Communist Party of China, then no, not this time. Now we are talking about the Greatest common divisor - this number of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers. Nothing complicated. Try to find the GCD of two numbers. Three correct answers - you are the winner!
+Do you know what GCD is? If you think that it will be about the GongChanDangerous, Communist Party of China, then no, not this time. Now we are talking about the Greatest common divisor - this number of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers. Let's play Brain-gcd.Nothing complicated. Try to find the GCD of two numbers. Three correct answers - you are the winner!
 
 
 ### Presentation of the gameplay in the video:
@@ -53,6 +53,8 @@ Do you know what GCD is? If you think that it will be about the GongChanDangerou
 
 # Game Brain-prime
 
+<img class="MMImage-Origin" src="https://i.ytimg.com/vi/lhuuPvor1VA/maxresdefault.jpg">
+
 
 ### Presentation of the gameplay in the video:
 
@@ -60,6 +62,8 @@ Do you know what GCD is? If you think that it will be about the GongChanDangerou
 <a href="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0" target="_blank"><img src="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0.svg" /></a>
 
 # Game Brain-progression
+
+<img class="MMImage-Origin" src="https://cdn.slidesharecdn.com/ss_thumbnails/theprogressioncopy-101217035540-phpapp02-thumbnail-4.jpg?cb=1292559012">
 
 
 ### Presentation of the gameplay in the video:
