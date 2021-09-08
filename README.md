@@ -25,7 +25,7 @@ To win the game you have to successfully finish three rounds in a row.
 
 # Game Brain-even
 
-<img class="wp-post-image" src="https://www.entrenamiento360.com/wp-content/uploads/2015/08/elegir_bien.jpg" alt="Cómo tomar mejores decisiones" style="width:100%; height:auto; max-width:none; left:0; top:-3.75px;">
+<img class="wp-post-image" src="https://www.entrenamiento360.com/wp-content/uploads/2015/08/elegir_bien.jpg" alt="Cómo tomar mejores decisiones" style="width:60%; height:auto; max-width:none; left:0; top:-3.75px;">
 
 This game is very simple. But if you are bored or just want to train your perseverance and attentiveness. Let's play Brain-even. You need only get one answer "yes" or " no " to a very simple question...is there life on Mars?..Oh, this is a joke...the question is - is the number even? You have three attempts for this. I answered three times correctly - you are the winner!
 
