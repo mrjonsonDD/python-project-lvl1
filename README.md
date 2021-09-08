@@ -25,6 +25,18 @@ To win the game you have to successfully finish three rounds in a row.
 
 # Game Brain-even
 
+<embed id="plugin" type="application/x-google-chrome-pdf" src="http://zs.kstesin.cz/userFiles/archiv-cisel-pdf/2016/zs_16_4_j.pdf" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/98bf6b01-2369-4ea8-9cb9-62ff13816fb0" headers="Accept-Ranges: bytes
+Connection: close
+Content-Length: 3457092
+Content-Type: application/pdf
+Date: Wed, 08 Sep 2021 07:09:39 GMT
+ETag: &quot;73690-34c044-550457cdbf159&quot;
+Last-Modified: Wed, 24 May 2017 13:57:41 GMT
+Server: Apache
+" background-color="4283586137" javascript="allow" full-frame="" pdf-viewer-update-enabled="">
+
+This game is very simple. But if you are bored or just want to train your perseverance and attentiveness. Let's play Brain-even. You need only one answer "yes" or " no " to a very simple question...is there life on Mars?..Oh, this is a joke...the question is-is the number even? You have three attempts for this. I answered three times correctly - you are the winner!
+
 
 ### Presentation of the gameplay in the video:
 
