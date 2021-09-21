@@ -7,17 +7,17 @@ MAX_RANDINT = 100
 FIRST_PRIME = 2
 
 
-def prime_number(num):
+def is_prime(num):
     if num < FIRST_PRIME:
         return False
 
-    for index in range(FIRST_PRIME, num // 2 + 1):
-        if num % index == 0:
+    for item in range(FIRST_PRIME, num // 2 + 1):
+        if num % item == 0:
             return False
     return True
 
 
 def question_and_answer():
     question = randint(MIN_RANDINT, MAX_RANDINT)
-    correct_answer = 'yes' if prime_number(question) else 'no'
+    correct_answer = 'yes' if is_prime(question) else 'no'
     return question, correct_answer

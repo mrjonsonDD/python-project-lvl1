@@ -1,7 +1,7 @@
 import prompt
 
 
-GAME_RAUNDS = 3
+NUMBER_OF_CORRECT_ANSWERS = 3
 
 
 def run_engine(game):
@@ -10,10 +10,10 @@ def run_engine(game):
     print('Hello, {}!'.format(user_name))
 
     print(game.GAME_TASK)
-    count = 1
+    count_correct_answer = 1
 
-    while count <= GAME_RAUNDS:
-        count += 1
+    while count_correct_answer <= NUMBER_OF_CORRECT_ANSWERS:
+        count_correct_answer += 1
         question, correct_answer = game.question_and_answer()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
