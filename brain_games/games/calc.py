@@ -10,9 +10,9 @@ MAX_SECOND_RANDINT = 10
 def get_operator(num1, num2):
     seq_operators = ['+', '*', '-']
     operator = choice(seq_operators)
-    if operator == ' + ':
+    if operator == '+':
         right_ans = num1 + num2
-    elif operator == ' * ':
+    elif operator == '*':
         right_ans = num1 * num2
     else:
         right_ans = num1 - num2
