@@ -7,20 +7,20 @@ MIN_FOR_STEP = 1
 MAX_FOR_STEP = 10
 
 
-def mysterious_proggression(start_num, end_num, step):
-    mysterious_num = randrange(start_num, end_num + 1, step)
+def mysterious_proggression(start_num, end_num, step, correct_answer):
     mysterious_prog = ''
-    for index in range(start_num, end_num, step):
-        if index != mysterious_num:
-            mysterious_prog += str(index) + ' '
+    for item in range(start_num, end_num, step):
+        if item != correct_answer:
+            mysterious_prog += str(item) + ' '
         else:
             mysterious_prog += '.. '
-    return mysterious_prog, mysterious_num
+    return mysterious_prog
 
 
 def question_and_answer():
     start_num = randint(MIN_RANDINT, MAX_RANDINT)
     step = randint(MIN_FOR_STEP, MAX_FOR_STEP)
     end_num = start_num + 4 * step + 1
-    question, correct_answer = mysterious_proggression(start_num, end_num, step)
+    correct_answer = randrange(start_num, end_num + 1, step)
+    question = mysterious_proggression(start_num, end_num, step, correct_answer)
     return question, str(correct_answer)

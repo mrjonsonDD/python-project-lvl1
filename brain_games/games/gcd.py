@@ -1,5 +1,4 @@
 from random import randint
-import math
 
 
 GAME_TASK = 'Find the greatest common divisor of given numbers.'
