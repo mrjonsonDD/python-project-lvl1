@@ -71,6 +71,7 @@ A prime number (prime) is a natural number that has exactly two different natura
 
 <img class="MMImage-Origin" src="https://cdn.slidesharecdn.com/ss_thumbnails/theprogressioncopy-101217035540-phpapp02-thumbnail-4.jpg?cb=1292559012">
 
+Here, answer me the question, what is an arithmetic progression? If you don't know the answer, then you're probably too young, my little boy. Better call your daddy here. There is a sequence in this game and a number is missing in it. Find this number. Do you have three attempts and if you answered correctly - you are the winner.
 
 ### Presentation of the gameplay in the video:
 
