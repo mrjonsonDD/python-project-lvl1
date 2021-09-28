@@ -20,7 +20,7 @@ This repository with a set of five console games built on the principle of popul
 
 <img class="wp-post-image" src="https://www.entrenamiento360.com/wp-content/uploads/2015/08/elegir_bien.jpg" alt="Cómo tomar mejores decisiones" style="width:60%; height:auto; max-width:none; left:0; top:-3.75px;">
 
-<a href="https://asciinema.org/a/438640" target="_blank"><img src="https://asciinema.org/a/438640.svg" /></a>
+
 
 This game is very simple. But if you are bored or just want to train your perseverance and attentiveness. Let's play Brain-even. You need only get one answer "yes" or " no " to a very simple question...is there life on Mars?..Oh, this is a joke...the question is - is the number even? You have three attempts for this. I answered three times correctly - you are the winner!
 
@@ -28,7 +28,7 @@ This game is very simple. But if you are bored or just want to train your persev
 ### Presentation of the gameplay in the video:
 
 
-<a href="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA" target="_blank"><img src="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA.svg" /></a>
+<a href="https://asciinema.org/a/438640" target="_blank"><img src="https://asciinema.org/a/438640.svg" /></a>
 
 # Game Brain-calc
 
@@ -39,7 +39,7 @@ Do you like to count different mathematical examples in your mind? Let's play Br
 ### Presentation of the gameplay in the video:
 
 
-<a href="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI" target="_blank"><img src="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI.svg" /></a>
+<a href="https://asciinema.org/a/438636" target="_blank"><img src="https://asciinema.org/a/438636.svg" /></a>
 
 # Game Brain-gcd
 
@@ -51,7 +51,7 @@ Do you know what GCD is? If you think that it will be about the GongChanDangerou
 ### Presentation of the gameplay in the video:
 
 
-<a href="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6" target="_blank"><img src="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6.svg" /></a>
+<a href="https://asciinema.org/a/438645" target="_blank"><img src="https://asciinema.org/a/438645.svg" /></a>
 
 # Game Brain-prime
 
@@ -65,7 +65,7 @@ A prime number (prime) is a natural number that has exactly two different natura
 ### Presentation of the gameplay in the video:
 
 
-<a href="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0" target="_blank"><img src="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0.svg" /></a>
+<a href="https://asciinema.org/a/438648" target="_blank"><img src="https://asciinema.org/a/438648.svg" /></a>
 
 # Game Brain-progression
 
@@ -75,4 +75,4 @@ A prime number (prime) is a natural number that has exactly two different natura
 ### Presentation of the gameplay in the video:
 
 
-<a href="https://asciinema.org/a/7LIYC70D8qXiKJI4urcYaA3q7" target="_blank"><img src="https://asciinema.org/a/7LIYC70D8qXiKJI4urcYaA3q7.svg" /></a>
+<a href="https://asciinema.org/a/438650" target="_blank"><img src="https://asciinema.org/a/438650.svg" /></a>
