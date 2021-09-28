@@ -4,7 +4,7 @@
 [![Actions Status](https://github.com/mrjonsonDD/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mrjonsonDD/python-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 ![run-tests](https://github.com/afiskon/go-rest-service-example/workflows/run-tests/badge.svg)
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
 
 This repository with a set of five console games built on the principle of popular mobile brain training applications.
 
@@ -19,6 +19,8 @@ This repository with a set of five console games built on the principle of popul
 # Game Brain-even
 
 <img class="wp-post-image" src="https://www.entrenamiento360.com/wp-content/uploads/2015/08/elegir_bien.jpg" alt="Cómo tomar mejores decisiones" style="width:60%; height:auto; max-width:none; left:0; top:-3.75px;">
+
+<a href="https://asciinema.org/a/438640" target="_blank"><img src="https://asciinema.org/a/438640.svg" /></a>
 
 This game is very simple. But if you are bored or just want to train your perseverance and attentiveness. Let's play Brain-even. You need only get one answer "yes" or " no " to a very simple question...is there life on Mars?..Oh, this is a joke...the question is - is the number even? You have three attempts for this. I answered three times correctly - you are the winner!
 
