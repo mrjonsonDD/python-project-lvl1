@@ -7,7 +7,7 @@
 
 
 This repository with a set of five console games built on the principle of popular mobile brain training applications. Installing a package with games
-pip install --user git+https://github.com/MrHagal/python-project-lvl1.git
+pip install --user git+https://github.com/mrjonsonDD/python-project-lvl1.git
 
 <img width="750" height="375" src="https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi.jpg" class="attachment-big-post-thumbnails size-big-post-thumbnails wp-post-image" alt="Мозг качается со штангой" itemprop="url image" srcset="https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi.jpg 750w, https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi-200x100.jpg 200w, https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi-191x96.jpg 191w" sizes="(max-width: 750px) 100vw, 750px">
 
