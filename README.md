@@ -11,10 +11,10 @@ pip install --user git+https://github.com/mrjonsonDD/python-project-lvl1.git
 
 <img width="750" height="375" src="https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi.jpg" class="attachment-big-post-thumbnails size-big-post-thumbnails wp-post-image" alt="Мозг качается со штангой" itemprop="url image" srcset="https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi.jpg 750w, https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi-200x100.jpg 200w, https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi-191x96.jpg 191w" sizes="(max-width: 750px) 100vw, 750px">
 
-### How it works?
+# How it works?
 
 
-# Let's go
+### Let's go
 
 
 # Game Brain-even
@@ -33,7 +33,7 @@ This game is very simple. But if you are bored or just want to train your persev
 
 # Game Brain-calc
 
-<img class="article_object_sizer_inner" src="https://sun9-55.userapi.com/impf/c850332/v850332936/65400/PHALrDdxKj4.jpg?size=640x307&amp;quality=96&amp;sign=8599f4f7c0bcb32084d5d08fd46b33ac&amp;type=album" data-baseurl="" alt="Калькулятор в голове: методика быстрого счета в уме для ребенка, изображение №1">
+<img class="article_object_sizer_inner" src="https://sun9-55.userapi.com/impf/c850332/v850332936/65400/PHALrDdxKj4.jpg?size=340x207&amp;quality=96&amp;sign=8599f4f7c0bcb32084d5d08fd46b33ac&amp;type=album" data-baseurl="" alt="Калькулятор в голове: методика быстрого счета в уме для ребенка, изображение №1">
 
 Do you like to count different mathematical examples in your mind? Let's play Brain-Calc. Imagine yourself as a calculator and give the correct answer to the given examples. You have three attempts, don't make a mistake. Answered correctly three times - you are the winner.
 
