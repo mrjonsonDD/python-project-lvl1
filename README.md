@@ -33,7 +33,7 @@ This game is very simple. But if you are bored or just want to train your persev
 
 # Game Brain-calc
 
-<img class="article_object_sizer_inner" src="https://sun9-55.userapi.com/impf/c850332/v850332936/65400/PHALrDdxKj4.jpg?size=340x207&amp;quality=96&amp;sign=8599f4f7c0bcb32084d5d08fd46b33ac&amp;type=album" data-baseurl="" alt="Калькулятор в голове: методика быстрого счета в уме для ребенка, изображение №1">
+<img class="article_object_sizer_inner" src="https://sun9-55.userapi.com/impf/c850332/v850332936/65400/PHALrDdxKj4.jpg?size=640x307&amp;quality=96&amp;sign=8599f4f7c0bcb32084d5d08fd46b33ac&amp;type=album" data-baseurl="" alt="Калькулятор в голове: методика быстрого счета в уме для ребенка, изображение №1">
 
 Do you like to count different mathematical examples in your mind? Let's play Brain-Calc. Imagine yourself as a calculator and give the correct answer to the given examples. You have three attempts, don't make a mistake. Answered correctly three times - you are the winner.
 
