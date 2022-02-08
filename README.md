@@ -19,7 +19,7 @@ pip install --user git+https://github.com/mrjonsonDD/python-project-lvl1.git
 
 # Game Brain-even
 
-<img class="wp-post-image" src="https://www.entrenamiento360.com/wp-content/uploads/2015/08/elegir_bien.jpg" alt="Cómo tomar mejores decisiones" style="width:30%; height:auto; max-width:none; left:0; top:-3.75px;">
+<img class="wp-post-image" src="https://www.entrenamiento360.com/wp-content/uploads/2015/08/elegir_bien.jpg" alt="Cómo tomar mejores decisiones" style="width:60%; height:auto; max-width:none; left:0; top:-3.75px;">
 
 
 
