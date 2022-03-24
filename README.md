@@ -1,76 +1,86 @@
-# Brain games
+# **Brain games**
 
-### Hexlet tests and linter status:
+## Hexlet tests and linter status (Вывод тестов):
 [![Actions Status](https://github.com/mrjonsonDD/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/mrjonsonDD/python-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 ![run-tests](https://github.com/afiskon/go-rest-service-example/workflows/run-tests/badge.svg)
 ![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
+<hr/>
+
 This repository with a set of five console games built on the principle of popular mobile brain training applications.
 
-<img width="750" height="375" src="https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi.jpg" class="attachment-big-post-thumbnails size-big-post-thumbnails wp-post-image" alt="Мозг качается со штангой" itemprop="url image" srcset="https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi.jpg 750w, https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi-200x100.jpg 200w, https://qvilon.ru/wp-content/uploads/2017/05/mozg-so-shtangoi-191x96.jpg 191w" sizes="(max-width: 750px) 100vw, 750px">
+Этот репозиторий с набором из пяти консольных игр построен по принципу популярных мобильных приложений для тренировки мозга.
 
-### How it works?
+<hr/>
 
+## Installation (Установка):
 
-# Let's go
+ ```
+ pip install git+https://github.com/mrjonsonDD/python-project-lvl1.git
+ ```
 
+<hr/>
 
-# Game Brain-even
+## **How it's work?**
 
-<img class="wp-post-image" src="https://www.entrenamiento360.com/wp-content/uploads/2015/08/elegir_bien.jpg" alt="Cómo tomar mejores decisiones" style="width:60%; height:auto; max-width:none; left:0; top:-3.75px;">
+## `Game Brain-even`
 
-This game is very simple. But if you are bored or just want to train your perseverance and attentiveness. Let's play Brain-even. You need only get one answer "yes" or " no " to a very simple question...is there life on Mars?..Oh, this is a joke...the question is - is the number even? You have three attempts for this. I answered three times correctly - you are the winner!
+```
+brain-even
+```
 
+This game is very simple. But if you are bored or just want to train your perseverance and attentiveness. Let's play Brain-even. You need only get one answer "yes" or " no " to a very simple question...is there life on Mars?..Oh, this is a joke...the question is - is the number even? You have three attempts for this. If answered three times correctly - you are the winner!
 
-### Presentation of the gameplay in the video:
+Эта игра очень проста. Но если тебе скучно или ты просто хочешь потренировать свою усидчивость и внимательность. Давайт поиграем в Brain-even. Тебе нужно получить только один ответ "да" или "нет" на очень простой вопрос... есть ли жизнь на Марсе?.. Это шутка... вопрос - четное ли число? У тебя три попытки для этого. Три раза правильно ответил - ты победитель!
 
-
-<a href="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA" target="_blank"><img src="https://asciinema.org/a/O0xohIaPamvdVTHIPIZZz3uUA.svg" /></a>
-
-# Game Brain-calc
-
-<img class="article_object_sizer_inner" src="https://sun9-55.userapi.com/impf/c850332/v850332936/65400/PHALrDdxKj4.jpg?size=640x307&amp;quality=96&amp;sign=8599f4f7c0bcb32084d5d08fd46b33ac&amp;type=album" data-baseurl="" alt="Калькулятор в голове: методика быстрого счета в уме для ребенка, изображение №1">
-
-Do you like to count different mathematical examples in your mind? Let's play Brain-Calc. Imagine yourself as a calculator and give the correct answer to the given examples. You have three attempts, don't make a mistake. Answered correctly three times - you are the winner.
-
-### Presentation of the gameplay in the video:
+<hr/>
 
 
-<a href="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI" target="_blank"><img src="https://asciinema.org/a/jqJoU0uGWOkX9e36v6OImSSOI.svg" /></a>
+## `Game Brain-calc`
 
-# Game Brain-gcd
+```
+brain-calc
+```
 
-<img class="MMImage-Origin" src="http://jonathandodson.org/wp-content/uploads/2011/09/GCD-logo.jpg">
+Do you like to count different mathematical examples in your mind? What is 124 times 576? Joke, it's not that hard. Let's play Brain-Calc. Imagine yourself as a calculator and give the correct answer to the given examples. You have three attempts, don't make a mistake. Answered correctly three times - you are the winner.
+
+Нравится ли тебе считать в уме различные математические примеры? Сколько будет 124 умножить на  576? Шутка, все не так сложно. Давай поиграем в Brain-Calc. Представь себя калькулятором и дай правильный ответ на приведенные примеры. У тебя три попытки, не ошибись. Ответил правильно три раза - ты победитель.
+
+<hr/>
+
+## `Game Brain-gcd`
+
+```
+brain-gcd
+```
+
 
 Do you know what GCD is? If you think that it will be about the GongChanDangerous, Communist Party of China, then no, not this time. Now we are talking about the Greatest common divisor - this number of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers. Let's play Brain-gcd.Nothing complicated. Try to find the GCD of two numbers. Three correct answers - you are the winner!
 
+Ты знаешь, что такое GCD? Думаешь, что речь пойдет о GongChanDangerous, Коммунистической партии Китая, то нет, не в этот раз. Теперь мы говорим о Наибольшем Общем Делителе — это количество двух или более целых чисел, которые не все равны нулю, является наибольшим положительным целым числом, на которое делится каждое из целых чисел. Давай поиграем в Brain-gcd. Попробуй найти НОД двух чисел. Три правильных ответа - ты победитель!
 
-### Presentation of the gameplay in the video:
+<hr/>
 
+## `Game Brain-prime`
 
-<a href="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6" target="_blank"><img src="https://asciinema.org/a/wAr62gy8gXcpdfg0JVMhTJNX6.svg" /></a>
-
-# Game Brain-prime
-
-<img class="MMImage-Origin" src="https://i.ytimg.com/vi/lhuuPvor1VA/maxresdefault.jpg">
+```
+brain-prime
+```
 
 Did you know that there are 6 signs that you don't like prime numbers: 1. Try not to use them. 4. You do not allow others to use it. 6. Try not to notice them.
 A prime number (prime) is a natural number that has exactly two different natural divisors-one and itself. Let's play Brain-prime and answer the question whether the number is prime or not. Do you have three attempts and if you answered correctly - you are the winner.
 
+Знаете ли вы, что есть 6 признаков того, что вам не нравятся простые числа: 1. Стараетесь не использовать их. 4. Вы не позволяете другим использовать их. 6. Стараетесь их не замечать.
+Простое число (prime) — это натуральное число, имеющее ровно два различных натуральных делителя — единицу и само себя. Давай поиграем в Brain-prime и ответим на вопрос, простое это число или нет. У тебя есть три попытки и если вы ответили правильно - ты победитель.
 
+<hr/>
 
-### Presentation of the gameplay in the video:
+## `Game Brain-progression`
 
+```
+brain-progression
+```
+How is your logic, is everything all right? Let's check. A long-awaited vacation..blue sea..hot sun..wild beach, what is missing here? That's right, it's YOU! Now let's try the same with numbers. Given a sequence with a missing number. You need to guess it. You have three attempts and if you answer correctly, you are the winner.
 
-<a href="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0" target="_blank"><img src="https://asciinema.org/a/iDDxOhYbJ4bLNd2M6jZCwlzk0.svg" /></a>
-
-# Game Brain-progression
-
-<img class="MMImage-Origin" src="https://cdn.slidesharecdn.com/ss_thumbnails/theprogressioncopy-101217035540-phpapp02-thumbnail-4.jpg?cb=1292559012">
-
-
-### Presentation of the gameplay in the video:
-
-
-<a href="https://asciinema.org/a/7LIYC70D8qXiKJI4urcYaA3q7" target="_blank"><img src="https://asciinema.org/a/7LIYC70D8qXiKJI4urcYaA3q7.svg" /></a>
+Как у тебя с логикой, все в порядке? Давай проверим. Долгожданный отпуск..синее море..горячее солнце..дикий пляж, чего здесь не хватает? Правильно, ТЕБЯ! А теперь давай попробуем тоже самое с цифрами. Дана последовательность с пропущенным числом. Нужно его угадать. У тебя есть три попытки и если вы ответили правильно - вы победитель.
